@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '5769907387:AAF0tVVa2RNQjFpOeYmRAIWBhzIBa1jFp4E'
 bot = telebot.TeleBot(TOKEN)
 
 # Define your bot handlers as usual
